@@ -1,2 +1,0 @@
-# GameofLife
-Developed by Tanvi
